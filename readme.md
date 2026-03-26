@@ -82,6 +82,7 @@ Feel free to checkout the GitHub [ROS2 organization](https://github.com/ros2) to
 - [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 - [Foxglove Studio](https://github.com/foxglove/studio) - Integrated visualization and diagnosis tool for robotics. ![foxglove studio](https://img.shields.io/github/stars/foxglove/studio.svg)
+- - [ros2_studio](https://github.com/Sourav0607/ROS2-STUDIO) - GUI tool for performance monitoring, bag recording/playback, bag-to-CSV conversion and system dashboard in a single `ros2 studio` command. ![ros2_studio](https://img.shields.io/github/stars/Sourav0607/ROS2-STUDIO.svg)
 - [ROS2 For Unity](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
 ### Interactivity
